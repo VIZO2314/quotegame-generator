@@ -23,7 +23,7 @@ Sebuah aplikasi web sederhana yang akan menampilkan kutipan (quote) terkenal dar
 
 ```bash
 # 1. Clone repository ini
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/VIZO2314/quotegame-generator.git
 
 # 2. Masuk ke folder proyek
 cd nama-repo
