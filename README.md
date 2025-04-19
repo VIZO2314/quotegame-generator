@@ -50,8 +50,8 @@ cd nama-repo
 
 Kamu bisa meng-host aplikasi ini secara gratis di:
 
-- [GitHub Pages](https://pages.github.com)
-- 
+- [GitHub Pages](quotegame-generator.github.io)
+  
 ### 📌 Cara deploy ke GitHub Pages:
 
 1. Push project ini ke GitHub.
